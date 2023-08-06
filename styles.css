@@ -1,0 +1,50 @@
+.top-head{
+   
+    
+    
+    color: aliceblue;
+    font-size: larger;
+}
+
+.head{
+    background-color: #35155D;
+}
+.bg-2{
+    background-color: #512B81;
+}
+
+.sign{
+    text-align: center;
+    font-size: 10rem;
+}
+
+@media (max-width:570px){
+    .sign{
+        font-size: 5rem;
+    }
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3% 0;
+    flex-shrink: 1;
+}
+.bg-3{
+    background-color: #4477CE;
+    
+}
+.display{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 5%;
+}
+footer{
+    background-color: #8CABFF;
+}
+
+.result{
+    margin-top:5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
